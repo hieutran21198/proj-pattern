@@ -7,7 +7,7 @@ To prevent the duplication of code when using the go proverb `accept interfaces,
 The `dto` package will contain the data transfer objects, holds all data that is required for the remote call.
 The `model` package will contain the models, holds all data that is required for db operations.
 
-<img src="./assets/model.png" alt="model" />
+<img src="./assets/model2.png" alt="model" />
 
 Step: 
 
